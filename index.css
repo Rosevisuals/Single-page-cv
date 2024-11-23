@@ -1,0 +1,30 @@
+body{
+    padding: 20px;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    color: green;
+    font-size: 16px;
+}
+.container2{
+    width: 500px;
+}
+.container{
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
+a:hover{
+    color: green;
+}
+.main-container{
+    border: 2px solid black;
+    height: 700px;
+   
+    
+}
